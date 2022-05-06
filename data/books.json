@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "JavaScript NodejS basic",
+    "autor": "Umid Rustamov",
+    "year": "2022",
+    "janr": "sciense",
+    "price": "200"
+  },
+  {
+    "id": 2,
+    "name": "cssStyle",
+    "autor": "Umid Rustamov",
+    "year": "2022",
+    "janr": "sciense",
+    "price": "200"
+  },
+  {
+    "id": 3,
+    "name": "css",
+    "autor": "Umid Rustamov",
+    "year": "2001",
+    "janr": "sciense",
+    "price": "150"
+  },
+  {
+    "id": 4,
+    "name": "Sass",
+    "autor": "Umid Rustamov",
+    "year": "2022",
+    "janr": "sciense",
+    "price": "100"
+  },
+  {
+    "id": 5,
+    "name": "css advenced",
+    "autor": "Umid Rustamov",
+    "year": "2001",
+    "janr": "sciense",
+    "price": "110"
+  },
+  {
+    "id": 6,
+    "name": "JS vs Node JS",
+    "autor": "Umed Rustamov",
+    "year": "2022",
+    "janr": "sciense",
+    "price": "120"
+  }
+]
